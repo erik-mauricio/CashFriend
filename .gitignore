@@ -39,3 +39,44 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+.eggs/
+.venv/
+venv/
+env/
+
+# alembic
+alembic/versions/*.pyc
+
+# ml artifacts (large binaries — regenerate with ml/train.py)
+backend/ml/model.json
+
+# docker
+.docker/
+
+# postgres local data volume
+postgres_data/
+
+# ide
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# os
+.DS_Store
+Thumbs.db
+
+# claude worktrees (internal tooling)
+.claude/worktrees/
+
+# local development docs
+documentation.md
