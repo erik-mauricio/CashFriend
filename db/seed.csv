@@ -1,0 +1,52 @@
+date,description,amount,category,is_recurring
+2026-01-01,Direct Deposit - Employer,3200.00,Income,false
+2026-01-02,Netflix,-15.49,Entertainment,true
+2026-01-02,Spotify,-9.99,Entertainment,true
+2026-01-03,Whole Foods Market,-87.34,Groceries,false
+2026-01-04,Shell Gas Station,-52.10,Transportation,false
+2026-01-05,Amazon Prime,-14.99,Shopping,true
+2026-01-06,Chipotle Mexican Grill,-13.45,Dining,false
+2026-01-07,Con Edison Electric Bill,-110.00,Utilities,true
+2026-01-08,Starbucks,-6.75,Dining,false
+2026-01-09,Hulu,-17.99,Entertainment,true
+2026-01-10,Target,-64.22,Shopping,false
+2026-01-11,Uber,-18.50,Transportation,false
+2026-01-12,Apple iCloud,-2.99,Subscriptions,true
+2026-01-13,Trader Joes,-55.80,Groceries,false
+2026-01-14,NYT Digital Subscription,-17.00,Subscriptions,true
+2026-01-15,Direct Deposit - Employer,3200.00,Income,false
+2026-01-16,Planet Fitness,-24.99,Health,true
+2026-01-17,Duolingo Plus,-6.99,Subscriptions,true
+2026-01-18,Best Buy,-129.99,Shopping,false
+2026-01-19,Lyft,-22.30,Transportation,false
+2026-01-20,Cheesecake Factory,-47.80,Dining,false
+2026-01-21,GitHub Copilot,-10.00,Subscriptions,true
+2026-01-22,Costco,-143.56,Groceries,false
+2026-01-23,Verizon Wireless,-85.00,Utilities,true
+2026-01-24,Headspace,-12.99,Health,true
+2026-01-25,Airbnb,-320.00,Travel,false
+2026-01-26,Walgreens,-23.15,Health,false
+2026-01-27,YouTube Premium,-13.99,Entertainment,true
+2026-01-28,Amazon - Desk Lamp,-34.99,Shopping,false
+2026-01-29,Freelance Payment,850.00,Income,false
+2026-01-30,Five Guys,-16.80,Dining,false
+2026-01-31,Adobe Creative Cloud,-54.99,Subscriptions,true
+2026-02-01,Direct Deposit - Employer,3200.00,Income,false
+2026-02-02,Netflix,-15.49,Entertainment,true
+2026-02-02,Spotify,-9.99,Entertainment,true
+2026-02-03,Whole Foods Market,-91.10,Groceries,false
+2026-02-04,Shell Gas Station,-48.75,Transportation,false
+2026-02-05,Amazon Prime,-14.99,Shopping,true
+2026-02-06,Sweetgreen,-14.25,Dining,false
+2026-02-07,Con Edison Electric Bill,-104.00,Utilities,true
+2026-02-08,Starbucks,-6.75,Dining,false
+2026-02-09,Hulu,-17.99,Entertainment,true
+2026-02-10,Zara,-89.90,Shopping,false
+2026-02-11,Uber,-25.00,Transportation,false
+2026-02-12,Apple iCloud,-2.99,Subscriptions,true
+2026-02-13,Trader Joes,-60.45,Groceries,false
+2026-02-14,NYT Digital Subscription,-17.00,Subscriptions,true
+2026-02-15,Direct Deposit - Employer,3200.00,Income,false
+2026-02-16,Planet Fitness,-24.99,Health,true
+2026-02-17,Parking Ticket,-65.00,Transportation,false
+2026-02-18,GitHub Copilot,-10.00,Subscriptions,true
